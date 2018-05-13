@@ -1,2 +1,2 @@
 # DE-110817
-Two-Way Radio Link Transmitter Modul - hardware
+Two-Way Radio Link Transmitter Modul
